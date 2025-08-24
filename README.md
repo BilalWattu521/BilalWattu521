@@ -11,9 +11,9 @@
 
 - **1+ Years of Experience** in building modern mobile applications with Flutter.  
 - **Ex-Intern at [TIERS Limited](https://tierssolutionslimited.com/)**  
-  - Worked on real-world Flutter projects using **Firebase Realtime Database, Firebase Auth, SQLite, and MVVM architecture**.  
-  - Collaborated with teams to design responsive UIs and implement CRUD features.  
-  - Contributed to multiple apps during the **Summer Internship 2025**.  
+  - Worked on multiple Flutter projects using **Firebase Realtime Database, Firebase Auth, SQLite, and MVVM architecture**.  
+  - Implement CRUD features using SQLite.  
+  - Created multiple apps during the **Summer Internship 2025**.  
 
 ---
 
