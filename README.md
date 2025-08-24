@@ -1,9 +1,27 @@
 # I’m **Muhammad Bilal Ahmed** 👋
+---
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=FF5733&center=true&lines=A+Flutter+Developer)](https://git.io/typing-svg)
-----
+
+---
+
 ### 🔥 About Me  
 - 🚀 Currently exploring robust Flutter apps powered by **Firebase, SQLite, and API integrations**.  
 - 🎨 Passionate about **clean UI/UX, seamless performance, and scalable architecture**.  
+
+---
+
+### 📄 Resume  
+
+<p align="center">
+  <a href="https://github.com/BilalWattu521/BilalWattu521/blob/main/CV_Flutter_Developer.pdf">
+    <img src="https://img.shields.io/badge/View%20Resume-0052CC?style=for-the-badge" alt="View Resume"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/BilalWattu521/BilalWattu521/raw/main/CV_Flutter_Developer.pdf" download>
+    <img src="https://img.shields.io/badge/Download%20Resume-FF6F00?style=for-the-badge" alt="Download Resume"/>
+  </a>
+</p>
 
 ---
 
