@@ -45,7 +45,7 @@
 | Project | Description |
 |---------|-------------|
 | [**Quick Connect**](https://github.com/BilalWattu521/quick_connect) | A Social app with Firebase Realtime Database & Auth. |
-| [**Quick Connect**](https://github.com/BilalWattu521/rms_app_flutter) | A Restaurant Management System (user and admin apps) with Firebase Cloud Firestore & Auth. |
+| [**Restaurant Management System**](https://github.com/BilalWattu521/rms_app_flutter) | A Restaurant Management System (user and admin apps) with Firebase Cloud Firestore & Auth. |
 | [**StyleKart**](https://github.com/BilalWattu521/stylekart_ui) | A Clothing Brand UI App with Provider. |
 | [**Student Manager**](https://github.com/BilalWattu521/student_manager) | A CRUD app using SQLite & modern UI design. |
 
