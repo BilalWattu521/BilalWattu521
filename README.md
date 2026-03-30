@@ -14,11 +14,11 @@
 ### 📄 Resume  
 
 <p align="center">
-  <a href="https://github.com/BilalWattu521/BilalWattu521/blob/main/CV_Flutter_Developer.pdf">
+  <a href="https://github.com/BilalWattu521/BilalWattu521/blob/main/Muhammad Bilal Ahmed.pdf">
     <img src="https://img.shields.io/badge/View%20Resume-0052CC?style=for-the-badge" alt="View Resume"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/BilalWattu521/BilalWattu521/raw/main/CV_Flutter_Developer.pdf" download>
+  <a href="https://github.com/BilalWattu521/BilalWattu521/raw/main/Muhammad Bilal Ahmed.pdf" download>
     <img src="https://img.shields.io/badge/Download%20Resume-FF6F00?style=for-the-badge" alt="Download Resume"/>
   </a>
 </p>
