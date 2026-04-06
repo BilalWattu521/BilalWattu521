@@ -48,24 +48,15 @@
 
 ---
 
-### 📊 GitHub Stats & Activity  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BilalWattu521&show_icons=true&theme=radical" height="180em" /> &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilalWattu521&layout=compact&theme=radical" height="180em" />
-</p>
-
----
-
 
 ### 🚀 Featured Projects  
 
 | Project | Description |
 |---------|-------------|
+| [**DOORBOT**](https://github.com/BilalWattu521/doorbot_fyp) | DoorBot is an IoT-powered smart door automation system that integrates a Flutter mobile app with ESP32 hardware to deliver real-time doorbell alerts(Push Notifications), live video streaming, remote unlocking, and fingerprint based biometric access to unlock, all from your smartphone. |
+[**Smart Attendance System**](https://github.com/BilalWattu521/smart-attendance-system) | A modern, biometric-based attendance management system built with Flutter and Firebase. This application leverages facial recognition and geofencing technology to ensure accurate, secure, and location-aware attendance tracking for educational institutions. |
+[**Cinefy**](https://github.com/BilalWattu521/cinefy) | A premium Flutter application designed to help cinema enthusiasts track their favorite movies and TV shows, manage watched history, and even upload personal video edits associated with their favorite titles. |
 | [**Quick Connect**](https://github.com/BilalWattu521/quick_connect) | A Social app with Firebase Realtime Database & Auth. |
-| [**Restaurant Management System**](https://github.com/BilalWattu521/rms_app_flutter) | A Restaurant Management System (user and admin apps) with Firebase Cloud Firestore & Auth. |
-| [**StyleKart**](https://github.com/BilalWattu521/stylekart_ui) | A Clothing Brand UI App with Provider. |
-| [**Student Manager**](https://github.com/BilalWattu521/student_manager) | A CRUD app using SQLite & modern UI design. |
 
 ---
 
